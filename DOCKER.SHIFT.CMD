@@ -7,7 +7,7 @@
 ::   Isto é especialmente útil se você dispõe de pouco espaço em sua unicade C:/  
 ::
 :: === CONFIGURAÇÕES ===
-set "SOURCE_DIR=C:\Users\Administrador\AppData\Local\Docker\wsl"
+set "SOURCE_DIR=%USERPROFILE%\AppData\Local\Docker\wsl"
 set "TARGET_DIR=D:\DockerData\DockerDesktopWSL"
 set "TARGET_PARENT=D:\DockerData"
 ::
