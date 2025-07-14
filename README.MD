@@ -1,5 +1,5 @@
 # DOCKER.SHIFT - Script de Realocação de Imagens Docker
-[![](https://img.shields.io/badge/Terminal%20-%20Windows%20-%233776AB??style=for-the-badge&logo=codecrafters&labelColor=gray&logoColor=white)](https://github.com/srvictorbatista/dockershift/tree/main) 				 [![](https://img.shields.io/badge/Docker%20-%20Desktop%20-%233776AB??style=for-the-badge&logo=docker&labelColor=gray&logoColor=white)](https://github.com/srvictorbatista/dockershift/tree/main)
+[![](https://img.shields.io/badge/Terminal%20-%20Windows%20-%233776AB??style=for-the-badge&logo=codecrafters&labelColor=gray&logoColor=white)](https://github.com/srvictorbatista/dockershift) 				 [![](https://img.shields.io/badge/Docker%20-%20Desktop%20-%233776AB??style=for-the-badge&logo=docker&labelColor=gray&logoColor=white)](https://github.com/srvictorbatista/dockershift)
 
 ## Descrição
 
