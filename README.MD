@@ -9,6 +9,8 @@ Ele realiza a **movimentação completa da pasta de dados do WSL gerenciada pelo
 
 ### <FONT color="#FFFC00">Este procedimento é recomendado para cenários em que o espaço disponível no disco original seja limitado, garantindo continuidade dos serviços sem perda de dados ou limitações. </FONT>
 
+Embora o script possa **fechar o Docker Desktop** para você. É recomendado estar com ele fechado (fora de execução) ao executar este script, afim de evitar corrupções de dados durante as operações de realocação.
+Imagens docker constumam ocupar um espaço considerável. Assegure-se que haver espaço suficiente na unidade de destino. Recomenda-se fazer backup dos dados importantes antes da execução do script para evitar perda acidental.
 
 ---
 
@@ -70,6 +72,8 @@ D:\DockerData
 
 ## Observações importantes
 
+- Embora o script possa **fechar o Docker Desktop** para você. É recomendado estar com ele fechado (fora de execução) ao executar este script, afim de evitar corrupções de dados durante as operações de realocação.
+- Imagens docker constumam ocupar um espaço considerável. Assegure-se que haver espaço suficiente na unidade de destino.
 - A distribuição `docker-desktop` é gerenciada internamente pelo Docker Desktop e sua alteração deve ser feita com cautela.
 - O script tenta garantir que os processos que possam estar usando os arquivos sejam encerrados para evitar erros de acesso.
 - Caso algum arquivo ou pasta esteja em uso, o script renomeia temporariamente a pasta original antes de criar a junção.
