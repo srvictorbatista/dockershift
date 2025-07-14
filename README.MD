@@ -63,7 +63,7 @@ D:\DockerData
 
 ## Modo de uso
 
-1. Após [configurar as variáveis iniciais](#configuracao). Execute o script `.cmd` com privilégios de administrador.
+1. Após [configurar as variáveis iniciais](#configuração). Execute o script `.cmd` com privilégios de administrador.
 2. Aguarde a conclusão das etapas automáticas descritas pelo script.
 3. Ao final, a pasta original estará substituída por uma junção simbólica apontando para o novo local dos dados.
 4. O Docker Desktop e o WSL continuarão funcionando normalmente, utilizando a imagem no novo local.
