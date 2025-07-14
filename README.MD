@@ -7,7 +7,7 @@ Este projeto se destina a versões do **Docker Desktop** que façam uso do **WSL
 
 Ele realiza a **movimentação completa da pasta de dados do WSL gerenciada pelo Docker Desktop** para um novo local especificado pelo usuário, **criando em seguida uma junção NTFS (link simbólico)** no caminho original que aponta para o novo destino. Dessa forma, **o sistema e o Docker Desktop continuam acessando os dados normalmente,** porém fisicamente os arquivos estarão **localizados na nova unidade.**
 
-### <FONT color="#FFFC00">Este procedimento é recomendado para cenários em que o espaço disponível no disco original seja limitado, garantindo continuidade do funcionamento do Docker Desktop sem perda de dados. </FONT>
+### <FONT color="#FFFC00">Este procedimento é recomendado para cenários em que o espaço disponível no disco original seja limitado, garantindo continuidade dos serviços sem perda de dados ou limitações. </FONT>
 
 
 ---
