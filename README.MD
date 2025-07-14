@@ -39,7 +39,7 @@ No início do script, configure as variáveis conforme sua necessidade:
 - `SOURCE_DIR` - Caminho completo da pasta WSL atual utilizada pelo Docker Desktop. Exemplo:
 ```
 
-C:\Users\Administrador\AppData\Local\Docker\wsl
+%USERPROFILE%\AppData\Local\Docker\wsl
 
 ```
 
