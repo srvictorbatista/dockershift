@@ -1,0 +1,30 @@
+# ========================================================================================
+# DOCKER.SHIFT (.gitignore) - Arquivos e diretórios ignorados no controle de versão Git
+#
+# Este arquivo define os padrões para ignorar arquivos e pastas que são:
+# - Gerados automaticamente por processos de execução do Docker/WSL.
+# - Temporários ou de uso interno do ambiente.
+# - Não relevantes para versionamento do projeto.
+#
+# Este projeto se destina a versões do Windows 10 ou superiores
+# ========================================================================================
+
+
+
+
+# Diretórios a serem ignorados
+config/
+DockerDesktopWSL/
+log/
+run/
+tasks/
+wsl/
+
+# Arquivos específicos a serem ignorados
+backend.lock
+volume-backup-schedule.json
+
+
+
+
+
